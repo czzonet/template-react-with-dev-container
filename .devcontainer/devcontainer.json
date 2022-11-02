@@ -25,7 +25,8 @@
         "spmeesseman.vscode-taskexplorer",
         "orta.vscode-jest",
         "streetsidesoftware.code-spell-checker",
-        "vivaxy.vscode-conventional-commits"
+        "vivaxy.vscode-conventional-commits",
+        "styled-components.vscode-styled-components"
       ]
     }
   },
